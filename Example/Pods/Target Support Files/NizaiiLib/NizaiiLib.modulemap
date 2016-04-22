@@ -1,0 +1,6 @@
+framework module NizaiiLib {
+  umbrella header "NizaiiLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
